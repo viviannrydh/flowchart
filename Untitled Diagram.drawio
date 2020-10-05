@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T14:51:34.051Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" version="13.7.7" etag="QAEioSidiqX0_kpqiYhv" type="github"><diagram id="X_6IUY3Vdp4swBuhfX2J">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-05T19:25:19.090Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="UJp7OnGF_905lP0GSMR6" version="13.7.7" type="github">
+  <diagram id="X_6IUY3Vdp4swBuhfX2J" name="Page-1">
+    <mxGraphModel dx="786" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1sm_GLBp1DJQhUC-CbOe-1" value="start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1sm_GLBp1DJQhUC-CbOe-2" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119.5" y="90" as="sourcePoint" />
+            <mxPoint x="119.5" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1sm_GLBp1DJQhUC-CbOe-3" value="Should we go out, yes or no?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1sm_GLBp1DJQhUC-CbOe-5" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119.5" y="220" as="sourcePoint" />
+            <mxPoint x="119.5" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1sm_GLBp1DJQhUC-CbOe-6" value="if it is raining?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1sm_GLBp1DJQhUC-CbOe-7" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="329.5" as="sourcePoint" />
+            <mxPoint x="250" y="329.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1sm_GLBp1DJQhUC-CbOe-8" value="Yes. it is raining" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1sm_GLBp1DJQhUC-CbOe-9" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="1sm_GLBp1DJQhUC-CbOe-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="329.5" as="sourcePoint" />
+            <mxPoint x="440" y="329.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1sm_GLBp1DJQhUC-CbOe-10" value="Just stay at home" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1sm_GLBp1DJQhUC-CbOe-11" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="1sm_GLBp1DJQhUC-CbOe-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="329.5" as="sourcePoint" />
+            <mxPoint x="660" y="329.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1sm_GLBp1DJQhUC-CbOe-12" value="done" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1sm_GLBp1DJQhUC-CbOe-18" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119.5" y="360" as="sourcePoint" />
+            <mxPoint x="119.5" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1sm_GLBp1DJQhUC-CbOe-19" value="No, it is not raining" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1sm_GLBp1DJQhUC-CbOe-20" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="1sm_GLBp1DJQhUC-CbOe-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="460" as="sourcePoint" />
+            <mxPoint x="250" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1sm_GLBp1DJQhUC-CbOe-21" value="Go out and have fun" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1sm_GLBp1DJQhUC-CbOe-22" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="1sm_GLBp1DJQhUC-CbOe-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="470" as="sourcePoint" />
+            <mxPoint x="470" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
